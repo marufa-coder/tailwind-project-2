@@ -4,4 +4,4 @@ this is a tailwind website
 ## tailwind css
 
 
-live link: https://github.com/marufa-coder/tailwind-project-2
+live link:https://marufa-coder.github.io/tailwind-project-2/
